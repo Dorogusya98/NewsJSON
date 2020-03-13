@@ -1,11 +1,24 @@
 {
-  "posts": [
+  "newsList":[
     {
       "id": 1,
-      "title": "hello"
+      "title" : "Android Lollipop released!",
+      "text": "Google released new Android version",
+      "imageUrl": "<url to image>",
+      "publicationDate": "<timestamp>",
+      "comments": [
+              {   "username" : "Mary Ann",
+                  "message" : "Answer to question"
+              }]
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   ],
+  "news":[
+    {
+      "id": 1,
+      "title" : "Android Lollipop released!",
+      "text": "Google released new Android version",
+      "imageUrl": "<url to image>",
+      "publicationDate": "<timestamp>"
+    }
+   ]
 }
