@@ -10,9 +10,7 @@
               {   "username" : "Mary Ann",
                   "message" : "Answer to question"
               }]
-    }
-   ],
-  "news":[
+    },
     {
       "id": 1,
       "title" : "Android Lollipop released!",
@@ -32,9 +30,7 @@
               {   "username" : "Garry",
                   "message" : "Answer to question"
               }]
-    }
-   ],
-  "news":[
+    },
     {
       "id": 2,
       "title" : "Android Lollipop released!",
