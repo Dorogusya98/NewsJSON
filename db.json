@@ -12,15 +12,6 @@
               }]
     },
     {
-      "id": 1,
-      "title" : "Android Lollipop released!",
-      "text": "Google released new Android version",
-      "imageUrl": "<url to image>",
-      "publicationDate": "21.03.2020"
-    }
-  ],
-  "newsList":[
-    {
       "id": 2,
       "title" : "Android Lollipop released!",
       "text": "Google released new Android version",
@@ -30,6 +21,15 @@
               {   "username" : "Garry",
                   "message" : "Answer to question"
               }]
+    }
+  ],
+  "news":[
+    {
+      "id": 1,
+      "title" : "Android Lollipop released!",
+      "text": "Google released new Android version",
+      "imageUrl": "<url to image>",
+      "publicationDate": "21.03.2020"
     },
     {
       "id": 2,
