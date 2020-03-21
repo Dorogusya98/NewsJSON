@@ -14,7 +14,7 @@
                   "message" : "Страшнаааааааа"
               },
               {   "username" : "Helen",
-                  "message" : "Хочу в живую посмотреть на них"
+                  "message" : "Хочу вживую посмотреть на них"
               }
             ]
     },
@@ -25,9 +25,16 @@
       "imageUrl": "https://1.bp.blogspot.com/-PkxMrCaEdU4/XjcSzBLV5pI/AAAAAAABj4I/LXkbh1U4ICE2u_UrvoaVysaTjCJHsK1bQCLcBGAsYHQ/s1600/01-51EDX5MCR_k.jpg",
       "publicationDate": "21.03.2020",
       "comments": [
+              {   "username" : "Mary Ann",
+                  "message" : "Красивые львята"
+              },
               {   "username" : "Garry",
-                  "message" : "Answer to question"
-              }]
+                  "message" : "Страшнаааааааа"
+              },
+              {   "username" : "Helen",
+                  "message" : "Хочу вживую посмотреть на них"
+              }
+            ]
     },
     {
       "id": 3,
@@ -36,9 +43,16 @@
       "imageUrl": "https://интересный-мир.рф/wp-content/uploads/2018/10/dvuhgolovaya-zmeya-ne-mif-a-realnost.jpg",
       "publicationDate": "21.03.2020",
       "comments": [
+              {   "username" : "Mary Ann",
+                  "message" : "Красивая змея"
+              },
               {   "username" : "Garry",
-                  "message" : "Answer to question"
-              }]
+                  "message" : "Страшнаааааааа"
+              },
+              {   "username" : "Helen",
+                  "message" : "Хочу вживую посмотреть на неё"
+              }
+            ]
     }
   ],
   "news":[
