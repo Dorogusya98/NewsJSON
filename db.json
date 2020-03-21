@@ -8,8 +8,15 @@
       "publicationDate": "21.03.2020",
       "comments": [
               {   "username" : "Mary Ann",
-                  "message" : "Answer to question"
-              }]
+                  "message" : "Красивые лягушки"
+              },
+              {   "username" : "Garry",
+                  "message" : "Страшнаааааааа"
+              },
+              {   "username" : "Helen",
+                  "message" : "Хочу в живую посмотреть на них"
+              }
+            ]
     },
     {
       "id": 2,
